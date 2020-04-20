@@ -132,6 +132,7 @@
     <ClInclude Include="CRect.h" />
     <ClInclude Include="CShape.h" />
     <ClInclude Include="CUi.h" />
+    <ClInclude Include="测试头文件.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CCircle.cpp" />
